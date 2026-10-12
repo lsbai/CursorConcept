@@ -1,0 +1,5 @@
+[Icon Theme]
+Name=CursorConcept-Squid
+Comment=Windows 11 Cursor Concept dark regular (07_squid spinner) - inherits cursors from CursorConcept
+Example=default
+Inherits=CursorConcept

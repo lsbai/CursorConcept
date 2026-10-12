@@ -1,0 +1,5 @@
+[Icon Theme]
+Name=CursorConcept-Red-Light
+Comment=Windows 11 Cursor Concept light regular (06_red spinner) - inherits cursors from CursorConcept-Light
+Example=default
+Inherits=CursorConcept-Light

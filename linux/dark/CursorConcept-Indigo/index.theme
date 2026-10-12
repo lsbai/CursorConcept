@@ -1,0 +1,5 @@
+[Icon Theme]
+Name=CursorConcept-Indigo
+Comment=Windows 11 Cursor Concept dark regular (05_indigo spinner) - inherits cursors from CursorConcept
+Example=default
+Inherits=CursorConcept

@@ -1,0 +1,5 @@
+[Icon Theme]
+Name=CursorConcept-Amber
+Comment=Windows 11 Cursor Concept dark regular (03_amber spinner) - inherits cursors from CursorConcept
+Example=default
+Inherits=CursorConcept

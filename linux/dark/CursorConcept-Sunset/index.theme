@@ -1,0 +1,5 @@
+[Icon Theme]
+Name=CursorConcept-Sunset
+Comment=Windows 11 Cursor Concept dark regular (10_sunset spinner) - inherits cursors from CursorConcept
+Example=default
+Inherits=CursorConcept
